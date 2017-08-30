@@ -1,0 +1,59 @@
+{
+	border: solid 1px black;
+}
+.heading {
+width: 800px;
+margin: 40px auto;
+text-align: center;
+padding: 20px;
+box-sizing: border-box;
+color: black;
+}
+.stack {
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Josefin Slab', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Droid Sans Mono', monospace;
+font-family: 'Cabin Sketch', cursive;
+font-family: 'Special Elite', cursive;
+}
+.title {
+	font-size: 60px;
+	font-family: 'Cabin Sketch', cursive;
+	font-weight: 300;
+	margin: 3px auto;
+
+
+}
+ul {
+
+list-style-type: none;
+width: 700px;
+margin: 5px auto;
+padding: 3px 50px;
+box-sizing: border-box;
+
+}
+
+li {
+	display: inline-block;
+	margin: 2px 20px;
+	padding: 10px;
+	font-family: 'Cabin Sketch', cursive;
+	font-weight: 600;
+
+
+}
+.tcol {
+	text-align: center;
+}
+img {
+	margin: 40px auto;
+	height: 400px;
+	width: 300px;
+}
+.row {
+
+margin: 10px auto;
+}
